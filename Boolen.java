@@ -2,10 +2,10 @@ package book.book;
 
 public class Boolen {
     public static void main(){
-        boolean b;
-        b = false;
+        boolean boo;
+        boo = false;
 
-        if(b)
+        if(boo)
             System.out.println("true");
     }
 }
