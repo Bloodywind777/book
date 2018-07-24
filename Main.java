@@ -9,10 +9,7 @@ public class Main {
         System.out.println(s);
         */
 
-        double d = 1.123456789000001d;
-        float f = 1.123456789000001f;
-        d++;
-        System.out.println(d);
+        RelLogOps.main();
 
     }
 }
