@@ -9,7 +9,7 @@ public class Main {
         System.out.println(s);
         */
 
-        SideEffects.main();
+        LtoD.main();
 
     }
 }
