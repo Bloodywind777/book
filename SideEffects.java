@@ -10,5 +10,9 @@ public class SideEffects {
             System.out.println("Не отобразится");
         System.out.println("Оператор if выполняется "+i);
 
+
+        if(false && (++i < 100))
+            System.out.println("Этa строка не будет отображаться");
+        System.out.println("переменная i осталось равна "+i);
     }
 }
