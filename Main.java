@@ -9,7 +9,7 @@ public class Main {
         System.out.println(s);
         */
 
-        LtoD.main();
+        CastDemo.main();
 
     }
 }
