@@ -5,7 +5,7 @@ public class LogicalOpTaЬle {
 
         boolean p, q;
 
-        System.out.println("P\tQ\tAND\tOR\tNOT");
+        System.out.println("P\t\tQ\t\tAND\t\tOR\t\tXOR\t\tNOT");
         p = q = true;
         System.out.print(p + "\t"+ q + "\t");
         System.out.print((p&q) +"\t"+ (p|q) +"\t");
