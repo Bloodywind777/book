@@ -9,7 +9,7 @@ public class Main {
         System.out.println(s);
         */
 
-        CastDemo.main();
+        LogicalOpTaЬle.main();
 
     }
 }
